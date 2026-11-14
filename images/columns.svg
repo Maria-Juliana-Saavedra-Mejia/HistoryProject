@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+<g fill="#c9a24b" opacity=".16">
+<path d="M0 40h1200v18H0z"/><path d="M0 60h1200v8H0z"/>
+<g id="c"><rect x="70" y="80" width="70" height="200"/><rect x="58" y="70" width="94" height="14"/><rect x="58" y="276" width="94" height="14"/></g>
+<use href="#c" x="200"/><use href="#c" x="400"/><use href="#c" x="600"/><use href="#c" x="800"/><use href="#c" x="1000"/>
+</g></svg>
